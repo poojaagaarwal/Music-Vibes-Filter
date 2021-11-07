@@ -1,7 +1,7 @@
 # `MUSIC VIBES FILTER`
 ---  
 ## `About:`  
-A Facebook and Instagram filter that lets you vibe to your favorite music. It has 3D objects rotating around the head and it responds to the music around you.  
+An Instagram filter that lets you vibe to your favorite music. It has 3D objects rotating around the head and it responds to the music around you.  
 #
 ## `Use:`  
 The filter is published on Instagram with the name "[`Music Vibes`](https://www.instagram.com/ar/854593971836361/)" so you can use the filter to capture your pictures or videos and vibe to your favorite music.  
